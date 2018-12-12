@@ -1,3 +1,7 @@
+"""
+Quiz #1
+"""
+
 # Palindrome Method, Boolean.
 
 # Phillip's Answer
@@ -34,4 +38,11 @@ if list(my_str) == list(rev_str):
    print("It is palindrome")
 else:
    print("It is not palindrome")
+
+
+"""
+Quiz #2:
+"""
+
+# What happens when you go to google.com?
 
