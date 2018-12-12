@@ -1,3 +1,35 @@
+# Wednesday, December 12, 2018
+
+	Ken Recommends:
+
+		https://coderbyte.com/
+
+		# Big O Cheat Sheet O(n)
+		http://bigocheatsheet.com/
+
+	Udacity Recommendations:
+
+		Books
+		Cracking the Code Interview
+		Elements of Programming Interviews
+		Web Resources
+
+		Interview Guide: Machine Learning
+		Project Euler
+		The Matasano Crypto Challenges
+		List of Programming Interview Questions
+
+		Online Practice Platforms
+		LeetCode
+		CodeKata
+		Coderust
+		Interview Cake
+		Codewars
+		HackerRank
+		Career Resource Center
+
+
+
 """
 Quiz #1
 """

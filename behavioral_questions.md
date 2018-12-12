@@ -1,4 +1,17 @@
-# Wednesday, December 10, 2018
+Wednesday, December 12, 2018
+
+Full-Stack Interview Topic Notes:
+
+1. Python Palindrome Pseudocode.
+2. What happens when you go to google.com? TCP Session, GET request.  [Describe how the stacks connect]
+3. Describe an xsrf attack.
+4. Given an array of numbers, find two elements that add up to k.
+5. 
+
+
+
+
+# Monday, December 10, 2018
 
 ##### Extracurricular Notes
 
