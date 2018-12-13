@@ -1,3 +1,8 @@
+"""
+The three functions added to LinkedList are get_position, insert, and delete.
+
+"""
+
 class Element(object):
     def __init__(self, value):
         self.value = value
@@ -16,6 +21,7 @@ class LinkedList(object):
         else:
             self.head = new_element
 
+    # Returns an element at a certain position.
     def get_position(self, position):
         counter = 1
         current = self.head
